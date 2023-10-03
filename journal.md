@@ -1,3 +1,5 @@
+# Journal de bord du projet encadré
+
 Semaine 1
 Commandes :
 mkdir => Créer un dossier
@@ -12,3 +14,11 @@ unzip nom_du_fichier => Déziper
 
 Bilan :
 J'ai réussi à faire l'exercice même si j'ai eu plus de difficultés à trouver une commande pour créer plusieurs sous-dossiers dans un dossier. Je ne suis pas encore très à l'aise avec les commandes de contrôle mais je sais désormais utiliser les commandes citées plus haut nécessaires à la réalisation de l'exercice.
+
+##
+Semaine 2
+J'ai cloné le dépôt git sur ma machine.
+Pour vérifier si je suis à jour avec la version en ligne j'utilise la commande : git status.
+Pour répercuter les changements du dépôt sur ma machine j'utilise la commande : git pull
+La commande git log me permet de voir les derniers changements effectués.
+La touche "q" me permetr de sortir du log.
