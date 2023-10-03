@@ -21,4 +21,12 @@ J'ai cloné le dépôt git sur ma machine.
 Pour vérifier si je suis à jour avec la version en ligne j'utilise la commande : git status.
 Pour répercuter les changements du dépôt sur ma machine j'utilise la commande : git pull
 La commande git log me permet de voir les derniers changements effectués.
-La touche "q" me permetr de sortir du log.
+La touche "q" me permet de sortir du log.
+Pour créer un tag
+git tag [a-] [-m message] <tagname> [commit]
+git push origin <tagname>
+L'ordre à suivre :
+git pull
+git add
+git commit
+git push
