@@ -33,3 +33,5 @@ git push
 
 ###
 Voici la ligne que je vais devoir supprimer pour l'ex 1.a.
+
+#séance 3
