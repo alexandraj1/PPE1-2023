@@ -34,5 +34,13 @@ git push
 
 ###
 
+###
+
+#séance 3
+
+Je n'arive pas à continuer les exercices cela m'affiche un message d'erreur que je n'arrive pas à résoudre quand je fais commit revert --continue.
+
+
+
 #séance 3
 #commit revert effectué
