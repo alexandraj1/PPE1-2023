@@ -27,11 +27,12 @@ git tag [a-] [-m message] <tagname> [commit]
 git push origin <tagname>
 L'ordre à suivre :
 git pull
-git add journal.md
-git commit -m "Semaine 2"
+git add
+git commit
 git push
 
+
 ###
-Voici la ligne que je vais devoir supprimer pour l'ex 1.a.
 
 #séance 3
+#commit revert effectué
