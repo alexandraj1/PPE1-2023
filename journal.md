@@ -55,7 +55,9 @@ Pour défaire le commit j'ai utilisé git reset <commit>. C'est là que les chos
 
 1.c
 tag séance 3
-
-J'ai crée le fichier oups.md.
+J'ai effectué une série de commit dans le fichier oups.
 touch oups.md
+git add oups.md
 git commit -m "ouverture du fichier oups.md"
+git add oups.md
+git commit -m "Encore des modifications"
