@@ -34,8 +34,28 @@ git push
 
 ###
 
-###
-
 #séance 3
+Git II : mise en pratique
 
-Je n'arive pas à continuer les exercices cela m'affiche un message d'erreur que je n'arrive pas à résoudre quand je fais commit revert --continue.
+Commandes utilisées
+git add journal.md
+git commit -m "I AM ERROR"
+git commit -m "Ajout section séance 3"
+git log
+git push
+git reset <commit>
+
+1. a
+J'ai ajouté une ligne et j'ai commité avec le message "I AM ERROR"
+J'ai ajouté une section pour la séance 3 et j'ai commité avec le message "AJout sention séance 3" et j'ai poussé mes changements. Jusqu'à présent pas de difficulté particulière.
+
+1.b
+Pour récupérer l'identifiant SHA du commit dans mon terminal j'ai utilisé git log.
+Pour défaire le commit j'ai utilisé git reset <commit>. C'est là que les choses se compliquent, j'ai eu des messages d'erreur et j'ai vu sur git status que toutes les modifications n'avaient pas été pris en compte. J'ai refait les commandes et à force de patience j'ai enfin réussi.
+
+1.c
+tag séance 3
+
+J'ai crée le fichier oups.md.
+touch oups.md
+git commit -m "ouverture du fichier oups.md"
