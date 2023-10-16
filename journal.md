@@ -61,3 +61,15 @@ git add oups.md
 git commit -m "ouverture du fichier oups.md"
 git add oups.md
 git commit -m "Encore des modifications"
+
+#séance 4
+J'ai effectué les exercices sur 4 scripts différents.
+J'ai utilisé les commandes grep, sort, uniq et echo.
+ne pas oublier #!/usr/bin/bash et chmod +x
+
+file:///home/alexandra/Documents/PPE1/dossier_de_travail/ann/script.sh
+file:///home/alexandra/Documents/PPE1/dossier_de_travail/ann/script2.sh
+file:///home/alexandra/Documents/PPE1/dossier_de_travail/ann/script3.sh
+file:///home/alexandra/Documents/PPE1/dossier_de_travail/ann/script4.sh
+
+
