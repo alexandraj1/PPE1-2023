@@ -113,4 +113,17 @@ echo
 fi
 
 
+##
+Séance 6
+J'ai réussi l'exercice 1. Mon script fonctionne, je n'ai pas eu de difficultés particulière et mon scrpit répond aux consignes de l'exercice. Cependant, pour ce qui est de l'exercice 2 c'est une tout autre affaire. Je n'ai pas réussi, mon script ne donnait pas le résultat attendu. Je compte donc sur la correction pour comprendre ce qui n'allait pas.
+J'ai tout de même organisé mon arborescence comme demandé. Cela fait également plusieurs semaines que je n'ai pas eu de problème avec la manipulation de git hub ce qui n'était pas gagné d'avance, c'est donc une très bonne nouvelle.
+
+Concernant le projet de groupe :
+
+Nous nous sommes mis d'accord sur le mot que nous allions choisir pour le projet commun. Il s'agit de l'ORGUEIL. Nous avons déjà remarqué des différences dans l'usage de ce mot entre les trois langues que nous avons sélectionnées (Turque pour mélissa et espagnol pour Samy et français pour ma part). Je pourrai développer plus ce sujet dans les prochaines semaines.
+
+
+Commandes :
+=> t pour la tabulation
+
 
