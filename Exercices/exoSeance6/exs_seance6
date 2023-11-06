@@ -1,0 +1,41 @@
+#Exercice 1
+# 2. Comment transformer "urls/fr.txt" en paramètre du script ?
+# 2.1 S'assurer qu'on donne bien un argument au script, sinon on s'arrête
+
+#!/usr/bin/env bash
+
+chemin=$1
+
+while read -r line;
+do
+    echo ${line};
+done < "$1"
+else
+    exit
+fi
+
+
+# 3. Comment afficher le numéro de ligne avant chaque URL (sur la même ligne) ?
+# Bien séparer les valeurs par des tabulations
+
+#!/usr/bin/env bash
+
+chemin=$1
+
+if [$# -eq 1]
+then
+    num_ligne=1 #Initialise le numéro de ligne à 1
+while read -r line;
+do
+    echo -e "$num_ligne\t$line"; # Affiche le numéro
+    ((num_ligne++)) # Incrémente le numéro de ligne
+done < "$chemin"
+else
+    exit
+fi
+
+#Exercice 2
+# 1. Le code HTTP de réponse à la requête
+# 1.1 certaines erreurs peuvent être corrigées
+# 2. L'encodage de la page, s'il est présent
+
