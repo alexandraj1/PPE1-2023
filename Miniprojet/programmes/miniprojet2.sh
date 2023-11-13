@@ -1,3 +1,7 @@
+#!/bin/bash
+
+# Création du fichier HTML
+cat <<EOF > tableau-fr.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,3 +30,4 @@
     </table>
 </body>
 </html>
+EOF
