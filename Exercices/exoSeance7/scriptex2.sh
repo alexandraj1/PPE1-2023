@@ -1,7 +1,6 @@
 #!/bin/bash
-#!/bin/bash
 
-# Vérification des arguments
+# Exercice 2 Édition d’une liste de fréquence
 if [ "$#" -lt 1 ]; then
     echo "Usage: $0 ~/Documents/PPE1/ppe/PPE1-2023/Exercices/exoSeance7$ [nombre_de_mots_a_afficher]"
     exit 1
