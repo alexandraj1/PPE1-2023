@@ -1,6 +1,6 @@
 # Journal de bord du projet encadré
 
-Séance 1
+#Séance 1
 
 Commandes :
 
@@ -21,8 +21,8 @@ unzip nom_du_fichier => Déziper
 Bilan :
 J'ai réussi à faire l'exercice même si j'ai eu plus de difficultés à trouver une commande pour créer plusieurs sous-dossiers dans un dossier. Je ne suis pas encore très à l'aise avec les commandes de contrôle mais je sais désormais utiliser les commandes citées plus haut nécessaires à la réalisation de l'exercice.
 
-##
-Séance 2
+
+#Séance 2
 
 J'ai cloné le dépôt git sur ma machine.
 Pour vérifier si je suis à jour avec la version en ligne j'utilise la commande : git status.
@@ -44,7 +44,7 @@ git push
 
 
 ##
-Séance 3
+#Séance 3
 
 Git II : mise en pratique
 
@@ -79,8 +79,8 @@ git commit -m "ouverture du fichier oups.md"
 git add oups.md
 git commit -m "Encore des modifications"
 
-##
-Séance 4
+
+#Séance 4
 
 J'ai effectué les exercices sur 4 scripts différents.
 J'ai utilisé les commandes grep, sort, uniq et echo.
@@ -89,8 +89,8 @@ J'ai utilisé ce qu'on a vu en cours :
 
 cat | grep | cut | sort | uniq | sort | head
 
-##
-Séance 5
+
+#Séance 5
 
 Comme dans la consigne j'ai repis mes scripts et je les ai modifiés avec la validation des arguments. Tous les scripts marchent ce qui est plutôt une bonne nouvelle.
 J'ai utilisé ce qu'on a vu en cours :
@@ -113,8 +113,8 @@ echo
 fi
 
 
-##
-Séance 6
+
+#Séance 6
 J'ai réussi l'exercice 1. Mon script fonctionne, je n'ai pas eu de difficultés particulière et mon scrpit répond aux consignes de l'exercice. Cependant, pour ce qui est de l'exercice 2 c'est une tout autre affaire. Je n'ai pas réussi, mon script ne donnait pas le résultat attendu. Je compte donc sur la correction pour comprendre ce qui n'allait pas.
 J'ai tout de même organisé mon arborescence comme demandé. Cela fait également plusieurs semaines que je n'ai pas eu de problème avec la manipulation de git hub ce qui n'était pas gagné d'avance, c'est donc une très bonne nouvelle.
 
@@ -126,4 +126,15 @@ Nous nous sommes mis d'accord sur le mot que nous allions choisir pour le projet
 Commandes :
 => t pour la tabulation
 
+#Séance 7
+J'ai réussi à faire les exercices, tous les scripts marchent.
+J'ai utilisé les commandes recommandées comme grep, tr ou encore paste.
+Pour l'exercice 3.3 j'ai demandé au script de m'afficher 23 mots pour vérifier que le script marchait bien peu importe le nombre de mots demandé.
+J 'ai eu plus de mal pour l'exercice 3 mais j'ai tout de même trouvé un script qui répond aux consignes et c'est le principal. Je n'ai pas modifié grand chose finalement j'ai surtout repris les commandes qu'on avait vu en cours
+grep [:upper:] [:lower:] [:punct:] uniq  sort  head...
+En ce qui concerne le tableau HTML, j'ai essayé de faire quelque chose mais le rendu n'est pas transcendant. Cela donne bien un tableau, à double entrée, en HTML mais il y a encore du boulot pour que cela donne le rendu optimal. J'ai fait ce que j'ai pu mais je verrai bien en cours ce qu'il fallait faire.
+
+Concernant le projet de groupe :
+
+Nous avons accueilli un nouveau membre dans groupe, il s'agit de Lydia qui vient de Nanterre. Nous serons donc 4 pour le projet. Elle n'a pas encore choisi sa langue, elle va surement prendre arabe littéral.
 
